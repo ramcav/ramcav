@@ -5,8 +5,9 @@
 **`Solving problems creatively (Developer/CEO)`**
 
 Driven Computer Science and Artificial Intelligence student with a passion for combining technology and creativity. Skilled in full-stack development, data analysis, and team leadership. Founder and CEO of a nightlife technology startup. Proficient in Python, Swift, and data-driven applications.
-
-<img src="https://github.com/ramcav/ramcav/blob/cc2d85fa0fa9eed9a44e1a899e2527ab55a505cd/thehouse_gif.gif" width="200" height="200" />
+<p>
+    <img src="https://github.com/ramcav/ramcav/blob/cc2d85fa0fa9eed9a44e1a899e2527ab55a505cd/thehouse_gif.gif" width="200" height="200" />
+</p>
 
 <a href="https://apple.co/3vpqu73" style="margin: 0;"> 
     <img alt="Download theHouse" title="Download theHouse on the App Store" src="https://img.shields.io/badge/Download%20on%20the%20App%20Store-black?logo=apple&logoColor=white&style=for-the-badge"/>
