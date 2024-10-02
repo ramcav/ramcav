@@ -13,7 +13,7 @@ Driven Computer Science and Artificial Intelligence student with a passion for c
             <img alt="Download theHouse" title="Download theHouse on the App Store" src="https://img.shields.io/badge/Download%20on%20the%20App%20Store-black?logo=apple&logoColor=white&style=for-the-badge"/></a>
       
    <a href="https://followthehouse.com">
-            <img alt="theHouse Landing Page" title="Visit theHouse landing page" src="https://img.shields.io/badge/Landing%20Page-red?style=for-the-badge&logo=web"/></a>
+            <img alt="theHouse Landing Page" title="Visit theHouse landing page" src="https://img.shields.io/badge/Landing%20Page-red?style=for-the-badge&logo=house"/></a>
             
    <a href="https://www.linkedin.com/in/ricardomendezcavalieri/">
             <img alt="LinkedIn Profile" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
