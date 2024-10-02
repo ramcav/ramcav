@@ -2,6 +2,9 @@
 
 **`Solving problems through creativity`**
 
+Driven Computer Science and Artificial Intelligence student with a passion for combining technology and creativity. Skilled in full-stack development, data analysis, and team leadership. Founder and CEO of a nightlife technology startup. Proficient in Python, Swift, and data-driven applications.
+
+![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnNxNHk4ZWxyaWh1bjMycDVibHFwMnhwem12MDV2Zm9ob2s5czI5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rkM07YUiJCx8lJCxVt/giphy.gif)
 
 <!--
 **ramcav/ramcav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
