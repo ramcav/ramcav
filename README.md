@@ -6,7 +6,7 @@
 
 Driven Computer Science and Artificial Intelligence student with a passion for combining technology and creativity. Skilled in full-stack development, data analysis, and team leadership. Founder and CEO of a nightlife technology startup. Proficient in Python, Swift, and data-driven applications.
 <p>
-    <img src="(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZsZzBubXpwNXg0eXN1MDR5ZnZlOTh3ZHVoaW92ZHAwb2RibjRldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LpisAzmCHkVu6ycZsQ/giphy.webp)" width="200" height="200" />
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZsZzBubXpwNXg0eXN1MDR5ZnZlOTh3ZHVoaW92ZHAwb2RibjRldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LpisAzmCHkVu6ycZsQ/giphy.gif" width="200" height="200" />
 </p>
 
 <a href="https://apple.co/3vpqu73" style="margin: 0;"> 
