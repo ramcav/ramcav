@@ -1,13 +1,14 @@
-# Ricardo Mendez Cavalieri 🥽
+
 <center>
+# Ricardo Mendez Cavalieri 🥽
 
-    **`Solving problems through creatively (Developer/CEO)`**
+**`Solving problems through creatively (Developer/CEO)`**
 
-    Driven Computer Science and Artificial Intelligence student with a passion for combining technology and creativity. Skilled in full-stack development, data analysis, and team leadership. Founder and CEO of a nightlife technology startup. Proficient in Python, Swift, and data-driven applications.
+Driven Computer Science and Artificial Intelligence student with a passion for combining technology and creativity. Skilled in full-stack development, data analysis, and team leadership. Founder and CEO of a nightlife technology startup. Proficient in Python, Swift, and data-driven applications.
 
-    ![Alt Text](ramcav/thehouse_gif.gif)
+![Alt Text](ramcav/thehouse_gif.gif)
 
-    <p>
+   <p>
         <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
             <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
         <a href="https://www.youtube.com/c/fknight">
@@ -17,7 +18,6 @@
         <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
             <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
     </p>
-
 </center>
 
 
