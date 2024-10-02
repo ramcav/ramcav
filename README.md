@@ -6,7 +6,7 @@
 
 Driven Computer Science and Artificial Intelligence student with a passion for combining technology and creativity. Skilled in full-stack development, data analysis, and team leadership. Founder and CEO of a nightlife technology startup. Proficient in Python, Swift, and data-driven applications.
 
-![Alt Text]([ramcav/thehouse_gif.gif]([https://github.com/ramcav/ramcav/blob/main/thehouse_gif.gif?raw=true]))
+![Alt Text](https://github.com/ramcav/ramcav/blob/cc2d85fa0fa9eed9a44e1a899e2527ab55a505cd/thehouse_gif.gif)
 
    <p>
         <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
