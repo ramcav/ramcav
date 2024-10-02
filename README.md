@@ -2,20 +2,24 @@
 <div align="center">
 <h1>Ricardo Mendez Cavalieri 🥽</h1> 
 
-**`Solving problems through creatively (Developer/CEO)`**
+**`Solving problems creatively (Developer/CEO)`**
 
 Driven Computer Science and Artificial Intelligence student with a passion for combining technology and creativity. Skilled in full-stack development, data analysis, and team leadership. Founder and CEO of a nightlife technology startup. Proficient in Python, Swift, and data-driven applications.
 
 <img src="https://github.com/ramcav/ramcav/blob/cc2d85fa0fa9eed9a44e1a899e2527ab55a505cd/thehouse_gif.gif" width="200" height="200" />
+
    <p>
-        <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-            <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-        <a href="https://www.youtube.com/c/fknight">
-            <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-        <a href="https://github.com/ForrestKnight?tab=followers">
-            <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-        <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-            <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+        <!-- Link to App Store app -->
+   <a href="https://apple.co/3vpqu73">
+            <img alt="Download on the App Store" title="Download theHouse on the App Store" src="https://img.shields.io/badge/Download%20on%20the%20App%20Store-black?logo=apple&logoColor=white&style=for-the-badge"/></a>
+        
+         <!-- Link to landing page --!>
+   <a href="https://followthehouse.com">
+            <img alt="Landing page" title="Visit theHouse landing page" src="https://img.shields.io/badge/Landing%20Page-0A66C2?style=for-the-badge&logo=web"/></a>
+
+        <!-- Link to LinkedIn profile -->
+   <a href="https://www.linkedin.com/in/ricardomendezcavalieri/">
+            <img alt="LinkedIn Profile" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
     </p>
 </div>
 
