@@ -1,5 +1,5 @@
 
-<center>
+<div align="center">
 <h1>Ricardo Mendez Cavalieri 🥽</h1> 
 
 **`Solving problems through creatively (Developer/CEO)`**
@@ -17,7 +17,7 @@ Driven Computer Science and Artificial Intelligence student with a passion for c
         <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
             <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
     </p>
-</center>
+</div>
 
 
 <!--
