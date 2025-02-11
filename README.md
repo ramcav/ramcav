@@ -14,7 +14,7 @@ Driven Computer Science and Artificial Intelligence student with a passion for c
 </a>
             
 <p>
-               <a href="https://followthehouse.com" style="margin: 0;"><img alt="theHouse Landing Page" title="Visit theHouse landing page" src="https://img.shields.io/badge/Landing%20Page-red?style=for-the-badge&logo=house"/> </a>
+               <a href="https://dash-tickets.com" style="margin: 0;"><img alt="DASH Landing Page" title="Visit DASH landing page" src="https://img.shields.io/badge/Landing%20Page-red?style=for-the-badge&logo=house"/> </a>
                <a href="https://www.linkedin.com/in/ricardomendezcavalieri/" style="margin: 0;"><img alt="LinkedIn Profile" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
                
  </p>
